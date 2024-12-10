@@ -1,0 +1,32 @@
+## Prerequisites: Download Cellpose
+
+This script requires **Cellpose**, an advanced software for cell segmentation. If you haven't already installed Cellpose, follow these steps to download and set it up:
+
+### Steps to Download and Install Cellpose:
+
+1. Visit the official Cellpose website:
+   - [Cellpose Official Website](https://www.cellpose.org/)
+
+2. Follow the installation instructions on the website. Common installation methods include:
+   - Using `pip`:
+     ```bash
+     pip install cellpose
+     ```
+   - Installing via `conda`:
+     ```bash
+     conda install -c conda-forge cellpose
+     ```
+
+3. Verify the installation:
+   - Open a terminal or command prompt and type:
+     ```bash
+     cellpose --help
+     ```
+   - If Cellpose is installed correctly, you will see a help message with available options.
+
+### Why Cellpose?
+
+Cellpose is a generalist, deep learning-based segmentation algorithm designed for biological image analysis. This script utilizes the segmentation output from Cellpose (`seq.npy`) as input for calculating various morphological parameters.
+
+For detailed documentation and tutorials on using Cellpose, visit:
+- [Cellpose Documentation](https://cellpose.readthedocs.io/)
