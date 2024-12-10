@@ -1,7 +1,3 @@
-This is a comprehensive script for analyzing segmented cell regions using Cellpose output. Here's a detailed explanation of what it does and suggestions to structure your README for this script:
-
----
-
 # README for Cell Segmentation and Morphological Analysis Script
 
 ## Description
