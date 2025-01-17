@@ -107,11 +107,6 @@ To contribute:
 5. Open a pull request.
 
 ---
-You can add a **References** section at the end of the README file. This section should include citations for **Cellpose**, **Nyxus**, and any other relevant resources used in your project.
-
-Here’s how you can format it:
-
----
 
 ## References
 
