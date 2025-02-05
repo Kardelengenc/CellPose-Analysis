@@ -120,7 +120,6 @@ This project makes use of the following tools and resources:
 2. **Nyxus: Feature Extraction for Microscopy and Medical Imaging**  
    - Website: [https://nyxus.readthedocs.io/](https://nyxus.readthedocs.io/)  
    - Paper: Pylvänäinen, J., et al. (2022). "Nyxus: A comprehensive image feature extraction tool for microscopy and biomedical imaging." *Bioinformatics*, 38(3), 855-862.  
-     - [DOI: 10.1093/bioinformatics/btab733](https://doi.org/10.1093/bioinformatics/btab733)
 
 If you use this script in your research, please consider citing these tools accordingly.
 
